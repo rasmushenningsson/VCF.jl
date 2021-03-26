@@ -10,7 +10,7 @@ BioCore = "37cfa864-2cd6-5c12-ad9e-b6597d696c81"
 BufferedStreams = "e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d"
 
 [compat]
-Automa = "0.7, =0.8.0"
+Automa = "0.7, =0.8.0, 0.8"
 BGZFStreams = "0.3"
 BioCore = "2.0.5"
 BufferedStreams = "1"
